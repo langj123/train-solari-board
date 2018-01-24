@@ -5,7 +5,6 @@
 </head>
 <body>
     <div class="wrapper">
-        <h1>Schedule</h1>
         <div class="board">
              <div class="row">
                 <div class="time">
@@ -23,101 +22,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half letter-b"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -126,101 +106,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -229,101 +190,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -332,101 +274,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -435,101 +358,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -538,101 +442,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -641,101 +526,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
@@ -744,101 +610,82 @@
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="number">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div>
             <div class="vehicles">
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
                 <div class="letter">
                     <div class="letter-b character">B</div>
                     <div class="top-half"></div>
-                    <div class="bottom-half"></div>
                 </div>
             </div><!-- .vehicles -->
             </div><!-- .row -->
